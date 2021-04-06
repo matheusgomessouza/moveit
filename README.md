@@ -1,6 +1,6 @@
 # moveit
 
- ![](/assets/capa.png)
+ ![](/assets/capa.jpg)
  
  ## 👨‍💻 Tecnologias
 
