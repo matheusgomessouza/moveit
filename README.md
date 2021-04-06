@@ -1,7 +1,6 @@
 # moveit
-NextJS, Typescript
 
- ![](./assets/capa.png)
+ ![](/assets/capa.png)
  
  ## 👨‍💻 Tecnologias
 
