@@ -1,4 +1,4 @@
- ![](/assets/logo.svg)
+ ![](logo.svg)
 
  ![](/assets/capa.jpg)
  
